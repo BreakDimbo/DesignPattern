@@ -1,6 +1,4 @@
-package com.limbo.dp.Strategy;
-
-import java.util.Comparator;
+package com.limbo.dp.strategy;
 
 /**
  * Created by Break.D on 7/19/16.

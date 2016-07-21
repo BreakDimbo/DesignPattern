@@ -1,4 +1,4 @@
-package com.limbo.dp.fiterchain;
+package com.limbo.dp.filterchain;
 
 import java.util.ArrayList;
 import java.util.List;

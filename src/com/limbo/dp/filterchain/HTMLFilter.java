@@ -1,4 +1,4 @@
-package com.limbo.dp.fiterchain;
+package com.limbo.dp.filterchain;
 
 /**
  * Created by Break.D on 7/13/16.
