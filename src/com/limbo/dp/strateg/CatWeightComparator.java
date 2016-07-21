@@ -1,4 +1,4 @@
-package com.limbo.dp.strategy;
+package com.limbo.dp.strateg;
 
 /**
  * Created by Break.D on 7/19/16.
